@@ -17,7 +17,7 @@ homework 1
 ![An explosive cup of coffee](../static/1/4.jpg)
 ![The disembodied hands of a great ape](../static/1/5.jpg)
 ![A door for the condemned](../static/1/6.jpg)
-![alt text](../static/1/7.jpg)
+![ study space fit for a Sith Lord](../static/1/7.jpg)
 ![A golden globe atop a tower of eights](../static/1/8.jpg)
 ![A basement-dwelling Black Box, bigger than you might think](../static/1/9.jpg)
 
