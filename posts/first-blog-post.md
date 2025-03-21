@@ -10,16 +10,16 @@ allow_math: true
 
 homework 1
 
-![alt text](../static/1/0.jpg)
-![alt text](../static/1/1.jpg)
-![alt text](../static/1/2.jpg)
-![alt text](../static/1/3.jpg)
-![alt text](../static/1/4.jpg)
-![alt text](../static/1/5.jpg)
-![alt text](../static/1/6.jpg)
+![ curtain of roots, delivered by a winged visitor](../static/1/0.jpg)
+![A wide net strung high above](../static/1/1.jpg)
+![A book containing Digital Media wisdom, found amongst many](../static/1/2.jpg)
+![A wide machine, dispensing beverages from a far away land](../static/1/3.jpg)
+![An explosive cup of coffee](../static/1/4.jpg)
+![The disembodied hands of a great ape](../static/1/5.jpg)
+![A door for the condemned](../static/1/6.jpg)
 ![alt text](../static/1/7.jpg)
-![alt text](../static/1/8.jpg)
-![alt text](../static/1/9.jpg)
+![A golden globe atop a tower of eights](../static/1/8.jpg)
+![A basement-dwelling Black Box, bigger than you might think](../static/1/9.jpg)
 
 
 My name is Sihao Wang, English name is Benny. I come from China. I am studying this program because I am interested in computer code and using a lot of software. In the future I would like to work in a computer related field. This is the video of my apartment.
