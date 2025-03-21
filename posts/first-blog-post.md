@@ -1,5 +1,5 @@
 ---
-title: This is a blog post!
+title: Sihao Wang asignment 1
 published_at: 2022-11-04
 snippet: An example of a blog post.
 disable_html_sanitization: true
@@ -8,7 +8,17 @@ allow_math: true
 
 # This is h1
 
-![a drippy lemon](logo.svg)
+![alt text](../static/1/0.jpg)
+![alt text](../static/1/1.jpg)
+![alt text](../static/1/2.jpg)
+![alt text](../static/1/3.jpg)
+![alt text](../static/1/4.jpg)
+![alt text](../static/1/5.jpg)
+![alt text](../static/1/6.jpg)
+![alt text](../static/1/7.jpg)
+![alt text](../static/1/8.jpg)
+![alt text](../static/1/9.jpg)
+
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
