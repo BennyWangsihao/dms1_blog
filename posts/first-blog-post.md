@@ -46,7 +46,7 @@ The video I intend to make is a horror theme, I will be adding scary and spooky 
 
 homework 1
 
-I made this video by hiring someone to shoot some video of me in-house, I filmed in my apartment and I edited in some of the hobbies I like to play such as painting and using some camera equipment. I had my friend control the lighting changes and then shot a lot of video clips that I could link together and tried to play some scary music to complete my draft. This is my draft.
+I made this video by hiring someone to shoot some video of me in-house, I filmed in my apartment and I edited in some of the hobbies I like to play such as painting and using some camera equipment. I had my friend control the lighting changes and then shot a lot of video clips that I could link together and tried to play some scary music to complete my draft.
 This is my draft: https://youtu.be/jItdJcLzYX8
 
 
