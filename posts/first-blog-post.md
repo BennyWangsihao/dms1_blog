@@ -41,6 +41,8 @@ homework 2
 
 The video I intend to make is a horror theme, I will be adding scary and spooky music, eerie breathing sounds as well as footsteps into my video. I plan to shoot in first person so that the viewer feels like they are a spectator as I move around the room with my cell phone and show the viewer what they want to see. I will show the story from the beginning of the blackout to the mysterious things that happen later on through the speed of the pace and changes in lighting.
 
+![storyboard](../static/1/video-storyboard-template-storyboard-template.jpg)
+
 
 # week 3:
 
