@@ -43,7 +43,6 @@ homework2
 
 ![script](../static/1/123.jpg)
 
-![script](../static/1/123.jpg)
 
 About my design, I want it to be something about the icon of a cell phone system linked to a human behavior, I drew some similar icons and I think I need to find something that is not so unusual to look like for my icon and change it to become a human behavior after the change.
 
