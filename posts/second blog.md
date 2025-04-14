@@ -41,9 +41,13 @@ I like the contrast here—balancing serious content (safety) with a light tone 
 
 homework2
 
+![script](../static/1/123.jpg)
+
+About my design, I want it to be something about the icon of a cell phone system linked to a human behavior, I drew some similar icons and I think I need to find something that is not so unusual to look like for my icon and change it to become a human behavior after the change.
+
 # week 5
 
 homework 1
 
 I have designed the following color schemes, I think the colors about the software in these schemes are more suitable for solid colors because it has more of a technological feel to it, but the little man is in order to highlight what they are doing I think clashing colors are more suitable for their color schemes.
-![script](../static/1/123.jpg)
+
