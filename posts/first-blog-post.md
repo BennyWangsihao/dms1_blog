@@ -1,6 +1,11 @@
 ---
+<<<<<<< HEAD
+title: Sihao Wang blog 1
+published_at: 2025-3-20
+=======
 title: Sihao Wang asignment 1
 published_at: 2025.3.21
+>>>>>>> dc6bfdf91d9b3795b8c07b9801b09433cc09a527
 snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
@@ -8,8 +13,24 @@ allow_math: true
 
 # Week 1
 
+<<<<<<< HEAD
+![ wide net strung high above](wo1s1/0.jpg)
+![](wo1s1/1.jpg)
+![alt text](wo1s1/2.jpg)
+![alt text](wo1s1/3.jpg)
+![alt text](wo1s1/4.jpg)
+![alt text](wo1s1/5.jpg)
+![alt text](wo1s1/6.jpg)
+![alt text](wo1s1/7.jpg)
+![alt text](wo1s1/8.jpg)
+![alt text](wo1s1/9.jpg)
+=======
 homework 1
+>>>>>>> dc6bfdf91d9b3795b8c07b9801b09433cc09a527
 
+<<<<<<< HEAD
+I'm studying digital media because I'm interested in software stuff and I want to learn a lot about computers.
+=======
 ![ curtain of roots, delivered by a winged visitor](../static/1/0.jpg)
 ![A wide net strung high above](../static/1/1.jpg)
 ![A book containing Digital Media wisdom, found amongst many](../static/1/2.jpg)
@@ -20,6 +41,7 @@ homework 1
 ![ study space fit for a Sith Lord](../static/1/7.jpg)
 ![A golden globe atop a tower of eights](../static/1/8.jpg)
 ![A basement-dwelling Black Box, bigger than you might think](../static/1/9.jpg)
+>>>>>>> dc6bfdf91d9b3795b8c07b9801b09433cc09a527
 
 
 My name is Sihao Wang, English name is Benny. I come from China. I am studying this program because I am interested in computer code and using a lot of software. In the future I would like to work in a computer related field. This is the video of my apartment.
