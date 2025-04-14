@@ -51,3 +51,4 @@ homework 1
 
 I have designed the following color schemes, I think the colors about the software in these schemes are more suitable for solid colors because it has more of a technological feel to it, but the little man is in order to highlight what they are doing I think clashing colors are more suitable for their color schemes.
 
+·4
