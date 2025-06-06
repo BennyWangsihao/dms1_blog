@@ -51,5 +51,9 @@ I thought I would include these questions and answers to show some of the detail
 week 11
 homework 1
 ![alt text](wo1s1/11.png)
+I used black as a theme and added something like a chat box to enter the Q&A status, I left some places blank to add my work, I started with a regular arrangement but that was not creative so my first assignment was later changed to a crisscrossed arrangement and due to the iconography of the second assignment, I added some circles to facilitate the insertion of the images when the time came!
 
+homework 2
+![alt text](22.png)
+I ended up importing my assignment and changing a colour to make this assignment more in line with the colours of my design work, I also designed a logo for the cover to express what digital media is all about. I also wanted to include a paragraph about myself as my personal designer.
 
